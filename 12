@@ -133,6 +133,7 @@ footer {
     
       <a class="btn whatsapp" href="https://wa.me/9647700034404">واتساب</a>
       <a class="btn call" href="tel:07700034404">اتصال</a>
+      <a class="btn call" href="tel:https://www.facebook.com/profile.php?id=61585698580383">فيس بوك</a>
     </div>
 
   </div>
@@ -157,3 +158,4 @@ footer {
 
 </body>
 </html>
+
