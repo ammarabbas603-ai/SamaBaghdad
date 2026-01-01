@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -72,6 +71,10 @@ section {
   background:#007bff;
 }
 
+.facebook {
+  background:#1877F2;
+}
+
 /* أزرار ثابتة */
 .floating-buttons {
   position: fixed;
@@ -134,7 +137,7 @@ footer {
     
       <a class="btn whatsapp" href="https://wa.me/9647700034404">واتساب</a>
       <a class="btn call" href="tel:07700034404">اتصال</a>
-      <a class="btn call" href="tel:https://www.facebook.com/profile.php?id=61585698580383">فيس بوك</a>
+      <a class="btn facebook" href="https://www.facebook.com/profile.php?id=61585698580383" target="_blank">فيسبوك</a>
     </div>
 
   </div>
@@ -153,6 +156,7 @@ footer {
 
 <!-- أزرار ثابتة -->
 <div class="floating-buttons">
+  <a class="facebook" href="https://www.facebook.com/profile.php?id=61585698580383" target="_blank">📘</a>
   <a class="whatsapp" href="https://wa.me/9647700034404" target="_blank">💬</a>
   <a class="call" href="tel:07700034404">📞</a>
 </div>
